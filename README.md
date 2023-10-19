@@ -12,3 +12,6 @@ simple ordering experience that puts the focus on the dishes.</p>
 
 » HTML, CSS <br>
 » JavaSript
+
+## Contact
+Feel free to connect with me on my Website (https://www.uxpedesign.com.br/)
